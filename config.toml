@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://localsearchpro.co.uk"
 languageCode = "en-us"
 title = "Agency"
 theme = "hugo-agency-theme"
@@ -76,7 +76,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To Our Studio!"
+    title = "Welcome To Local Search Pro!"
     subtitle = "It's nice to meet you"
     buttonText = "Tell me more"
 
