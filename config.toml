@@ -91,8 +91,8 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-shopping-cart"
-      title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Websites"
+      description = "Responsive websites built for SEO success..."
       url = "#"
 
     [[params.services.row.list]]
