@@ -84,7 +84,7 @@ googleAnalytics = ""
   # Services section
   [params.services]
     enable = true
-    title = "Services"
+    title = "Services2"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
 
     [[params.services.row]]
@@ -104,7 +104,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-lock"
       title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "Loogit starem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
   # Portfolio section
